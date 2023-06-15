@@ -1,4 +1,4 @@
 hi there my journey started on GitHub todayi.e 15-06-23
 and i want to continue my work today also so i have come here to edit this file
 & now after creating probability branch now  i am writing this in probability branch but this edited part won't be shown in main repository, and this proprty of
-not getting affected  (i.e main repository) by these changes made in probabilty branch & the main branch will remain same..
+not getting affected  (i.e main repository) by these changes made in probabilty branch & the main 
